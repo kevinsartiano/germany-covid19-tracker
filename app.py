@@ -191,11 +191,11 @@ def get_table() -> str:
 @app.route('/')
 def main():
     """Flask app root."""
+    setup()
     heatmap = get_heatmap()
     table = get_table()
     return render_template("index.html", table=table, heatmap=heatmap)
 
 
 if __name__ == '__main__':
-    setup()
     app.run(debug=True)
