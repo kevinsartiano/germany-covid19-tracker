@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Germany COVID Tracker</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css')}}" />
+</head>
+<body>
+    <h1>Germany COVID-19 Tracker</h1>
+    <h2>7-day incidence per 100k inhabitants</h2>
+    <div class="left">
+        {{ heatmap|safe }}
+        <p> The service is updated with the latest case numbers from the
+        <a href="https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/917fc37a709542548cc3be077a786c17_0/data?geometry=-30.849%2C46.212%2C52.867%2C55.839&orderBy=cases7_per_100k&orderByAsc=false&selectedAttribute=cases7_per_100k"
+           style="color:yellow">Robert Koch Institute</a>.</p>
+    </div>
+    <div class="right">
+        {{ table|safe }}
+    </div>
+</body>
+</html>
+

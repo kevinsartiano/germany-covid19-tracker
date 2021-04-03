@@ -1,0 +1,93 @@
+body {
+    font-family: 'lato', sans-serif;
+    background-color: black;
+    color: #A7A1AE;
+    line-height: 1.42em;
+}
+
+.left {
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 50;
+    overflow-x: hidden;
+    padding-top: 20px;
+    left: 0;
+}
+
+.right {
+  height: 100%;
+  width: 50%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+  right: 0;
+}
+
+@media(max-width: 1200px) {
+    .left, .right {
+        width: 100%;
+        position: relative;
+    }
+}
+
+
+h1, h2 {
+    color:#A7A1AE;
+    padding:20px;
+}
+
+
+table {
+    width: 98%;
+    margin: 10px;
+    text-align: left;
+}
+
+th {
+    font-size: 17px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    background-color: black;
+}
+
+td {
+    padding: 2%;
+}
+
+/* Background-color of the odd rows */
+tr:nth-child(odd) {
+    background-color: #404040;
+}
+
+/* Background-color of the even rows */
+tr:nth-child(even) {
+	  background-color: #545454;
+}
+
+a:link {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}

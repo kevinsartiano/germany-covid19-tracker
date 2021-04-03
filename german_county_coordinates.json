@@ -1,0 +1,1606 @@
+{
+    "Flensburg Kreisfreie Stadt": [
+        54.78857455,
+        9.429658073777643
+    ],
+    "Kiel Kreisfreie Stadt": [
+        54.322864687066215,
+        10.131466929152642
+    ],
+    "Lübeck Kreisfreie Stadt": [
+        53.86755152098524,
+        10.68766996205567
+    ],
+    "Neumünster Kreisfreie Stadt": [
+        54.074247485617526,
+        9.984466654969749
+    ],
+    "Dithmarschen Kreis": [
+        53.901265242596615,
+        9.130830224073517
+    ],
+    "Herzogtum Lauenburg Kreis": [
+        53.3783436403242,
+        10.544166464965969
+    ],
+    "Nordfriesland Kreis": [
+        54.47643576800109,
+        9.0517475704596
+    ],
+    "Ostholstein Kreis": [
+        53.91888214216166,
+        10.696760273431483
+    ],
+    "Pinneberg Kreis": [
+        53.60254973703951,
+        9.838922264423166
+    ],
+    "Plön Kreis": [
+        54.23275454536449,
+        10.279769893280319
+    ],
+    "Rendsburg-Eckernförde Kreis": [
+        54.35311017265909,
+        10.065698015532899
+    ],
+    "Schleswig-Flensburg Kreis": [
+        54.66419543134291,
+        9.943902607299378
+    ],
+    "Segeberg Kreis": [
+        53.72428312525382,
+        10.002744611141548
+    ],
+    "Steinburg Kreis": [
+        53.792591073572275,
+        9.428560481313763
+    ],
+    "Stormarn Kreis": [
+        53.52325272539183,
+        10.247762573810528
+    ],
+    "Hamburg Kreisfreie Stadt": [
+        53.55094601633198,
+        9.999649392004155
+    ],
+    "Braunschweig Kreisfreie Stadt": [
+        52.26396400409219,
+        10.522716886932821
+    ],
+    "Salzgitter Kreisfreie Stadt": [
+        52.1596245919251,
+        10.331093344387153
+    ],
+    "Wolfsburg Kreisfreie Stadt": [
+        52.427071,
+        10.781001400733622
+    ],
+    "Gifhorn Landkreis": [
+        52.778550241113535,
+        10.493479371600966
+    ],
+    "Goslar Landkreis": [
+        51.71274194210519,
+        10.518611213535806
+    ],
+    "Helmstedt Landkreis": [
+        52.26527805,
+        10.809783738170822
+    ],
+    "Northeim Landkreis": [
+        51.715593600000005,
+        9.997479022854293
+    ],
+    "Peine Landkreis": [
+        52.321753650000005,
+        10.274019515470398
+    ],
+    "Wolfenbüttel Landkreis": [
+        52.261294050000004,
+        10.668933418839888
+    ],
+    "Göttingen Landkreis": [
+        51.4571672,
+        9.667548237450902
+    ],
+    "Region Hannover Landkreis": [
+        52.37433163969589,
+        9.73810295852094
+    ],
+    "Diepholz Landkreis": [
+        52.865657994947625,
+        8.736525803607424
+    ],
+    "Hameln-Pyrmont Landkreis": [
+        52.054365000000004,
+        9.599195937042488
+    ],
+    "Hildesheim Landkreis": [
+        52.11940434680506,
+        9.718932512700254
+    ],
+    "Holzminden Landkreis": [
+        51.93324475,
+        9.765039415777565
+    ],
+    "Nienburg (Weser) Landkreis": [
+        52.82938090384476,
+        9.141734901862815
+    ],
+    "Schaumburg Landkreis": [
+        52.34137475,
+        9.373114664359363
+    ],
+    "Celle Landkreis": [
+        52.620132299999995,
+        10.083460980785244
+    ],
+    "Cuxhaven Landkreis": [
+        53.68595527421729,
+        9.16273830286434
+    ],
+    "Harburg Landkreis": [
+        53.42838635,
+        10.05631270865764
+    ],
+    "Lüchow-Dannenberg Landkreis": [
+        52.96996354513988,
+        11.155628654764863
+    ],
+    "Lüneburg Landkreis": [
+        53.301934545244706,
+        10.94160894563582
+    ],
+    "Osterholz Landkreis": [
+        53.25485405,
+        8.814274694448768
+    ],
+    "Rotenburg (Wümme) Landkreis": [
+        53.110384347662084,
+        9.408882895594067
+    ],
+    "Heidekreis Landkreis": [
+        52.777874608531505,
+        9.377635356165884
+    ],
+    "Stade Landkreis": [
+        53.46826133195548,
+        9.682442567594677
+    ],
+    "Uelzen Landkreis": [
+        52.838096818508326,
+        10.67557310503247
+    ],
+    "Verden Landkreis": [
+        52.9291270292863,
+        9.24257690200822
+    ],
+    "Delmenhorst Kreisfreie Stadt": [
+        53.0491247,
+        8.64117900997864
+    ],
+    "Emden Kreisfreie Stadt": [
+        53.38184795,
+        7.204187395872216
+    ],
+    "Oldenburg (Oldb) Kreisfreie Stadt": [
+        53.15332581012051,
+        8.209100055880226
+    ],
+    "Osnabrück Kreisfreie Stadt": [
+        52.27440304586564,
+        8.04727137502674
+    ],
+    "Wilhelmshaven Kreisfreie Stadt": [
+        53.520276105951915,
+        8.107865132135744
+    ],
+    "Ammerland Landkreis": [
+        53.197935099999995,
+        8.022751934350435
+    ],
+    "Aurich Landkreis": [
+        53.594506209872016,
+        7.194510217913836
+    ],
+    "Cloppenburg Landkreis": [
+        53.0127303,
+        7.809039789571502
+    ],
+    "Emsland Landkreis": [
+        53.07869446330705,
+        7.409599428467821
+    ],
+    "Friesland Landkreis": [
+        53.38736885,
+        8.11947088283284
+    ],
+    "Grafschaft Bentheim Landkreis": [
+        52.29762325,
+        7.182350286763519
+    ],
+    "Leer Landkreis": [
+        53.30406055,
+        7.771111035518972
+    ],
+    "Oldenburg Landkreis": [
+        52.9421428,
+        8.23090048026045
+    ],
+    "Osnabrück Landkreis": [
+        52.20605494473029,
+        8.051218469527324
+    ],
+    "Vechta Landkreis": [
+        52.737429300997306,
+        8.290195699781405
+    ],
+    "Wesermarsch Landkreis": [
+        53.369319399999995,
+        8.258264414326465
+    ],
+    "Wittmund Landkreis": [
+        53.598018800000006,
+        7.766447775480375
+    ],
+    "Bremen Kreisfreie Stadt": [
+        53.55367414668037,
+        8.576532556418833
+    ],
+    "Bremerhaven Kreisfreie Stadt": [
+        53.53834981561945,
+        8.595821730738669
+    ],
+    "Düsseldorf Kreisfreie Stadt": [
+        51.22150619098695,
+        6.787828199732908
+    ],
+    "Duisburg Kreisfreie Stadt": [
+        51.433144633938525,
+        6.766331231236779
+    ],
+    "Essen Kreisfreie Stadt": [
+        51.45689953947493,
+        7.010947674258989
+    ],
+    "Krefeld Kreisfreie Stadt": [
+        51.33178588202929,
+        6.558523443055261
+    ],
+    "Mönchengladbach Kreisfreie Stadt": [
+        51.1943408,
+        6.433352978493501
+    ],
+    "Mülheim an der Ruhr Kreisfreie Stadt": [
+        51.42851601156538,
+        6.886611495471525
+    ],
+    "Oberhausen Kreisfreie Stadt": [
+        51.466442013704246,
+        6.858157085167128
+    ],
+    "Remscheid Kreisfreie Stadt": [
+        51.181726232053556,
+        7.186675667178232
+    ],
+    "Solingen Kreisfreie Stadt": [
+        51.17419299595835,
+        7.095333351612095
+    ],
+    "Wuppertal Kreisfreie Stadt": [
+        51.255922496130665,
+        7.144298142091396
+    ],
+    "Kleve Kreis": [
+        51.855415050000005,
+        6.2334480776799195
+    ],
+    "Mettmann Kreis": [
+        51.211458382983764,
+        6.938601470259491
+    ],
+    "Rhein-Kreis Neuss Kreis": [
+        51.24964028024798,
+        6.69155066800299
+    ],
+    "Viersen Kreis": [
+        51.3092333,
+        6.237523967628338
+    ],
+    "Wesel Kreis": [
+        51.66291397348758,
+        6.615355135828049
+    ],
+    "Bonn Kreisfreie Stadt": [
+        50.73899810301576,
+        7.097321872309049
+    ],
+    "Köln Kreisfreie Stadt": [
+        50.93837842220537,
+        6.954051883255719
+    ],
+    "Leverkusen Kreisfreie Stadt": [
+        51.05702510942757,
+        6.9466126626972935
+    ],
+    "Städteregion Aachen Kreis": [
+        50.77641272128127,
+        6.0861644653432485
+    ],
+    "Düren Kreis": [
+        50.7998843,
+        6.4662135461344725
+    ],
+    "Rhein-Erft-Kreis Kreis": [
+        50.96658105,
+        6.601576631571863
+    ],
+    "Euskirchen Kreis": [
+        50.65920428018577,
+        6.786190640548183
+    ],
+    "Heinsberg Kreis": [
+        51.0644867,
+        6.355044460077112
+    ],
+    "Oberbergischer Kreis Kreis": [
+        51.206445407404125,
+        7.346687231307223
+    ],
+    "Rheinisch-Bergischer Kreis Kreis": [
+        51.109746799999996,
+        7.06995347885034
+    ],
+    "Rhein-Sieg-Kreis Kreis": [
+        50.796720456578754,
+        7.596711181129083
+    ],
+    "Bottrop Kreisfreie Stadt": [
+        51.52412272220276,
+        6.9263585173502245
+    ],
+    "Gelsenkirchen Kreisfreie Stadt": [
+        51.50716712012906,
+        7.097942636616737
+    ],
+    "Münster Kreisfreie Stadt": [
+        51.96188462315022,
+        7.62651170975875
+    ],
+    "Borken Kreis": [
+        51.85739533493821,
+        6.848615963116039
+    ],
+    "Coesfeld Kreis": [
+        51.83977427225615,
+        7.288792731786884
+    ],
+    "Recklinghausen Kreis": [
+        51.54988913406109,
+        7.31068328668469
+    ],
+    "Steinfurt Kreis": [
+        52.0923583,
+        7.651368166612759
+    ],
+    "Warendorf Kreis": [
+        51.9517845,
+        8.002087580979081
+    ],
+    "Bielefeld Kreisfreie Stadt": [
+        52.021733551449906,
+        8.535253208054252
+    ],
+    "Gütersloh Kreis": [
+        51.91674085,
+        8.376199368437346
+    ],
+    "Herford Kreis": [
+        52.123828814141085,
+        8.696090859065475
+    ],
+    "Höxter Kreis": [
+        51.85898200642954,
+        9.078059484268545
+    ],
+    "Lippe Kreis": [
+        52.08790529054183,
+        8.746977315429856
+    ],
+    "Minden-Lübbecke Kreis": [
+        52.309322598409935,
+        8.621070669458677
+    ],
+    "Paderborn Kreis": [
+        51.711631846679744,
+        8.754787267005462
+    ],
+    "Bochum Kreisfreie Stadt": [
+        51.481928081325805,
+        7.216753865558528
+    ],
+    "Dortmund Kreisfreie Stadt": [
+        51.513716418385094,
+        7.475488891996337
+    ],
+    "Hagen Kreisfreie Stadt": [
+        51.367510788805106,
+        7.445643581318099
+    ],
+    "Hamm Kreisfreie Stadt": [
+        51.67203085,
+        7.837455419292951
+    ],
+    "Herne Kreisfreie Stadt": [
+        51.53770817924611,
+        7.224542761579585
+    ],
+    "Ennepe-Ruhr-Kreis Kreis": [
+        51.397184249999995,
+        7.18249591429206
+    ],
+    "Hochsauerlandkreis Kreis": [
+        51.45273056098476,
+        8.84611295535112
+    ],
+    "Märkischer Kreis Kreis": [
+        51.23007555,
+        7.629941314036618
+    ],
+    "Olpe Kreis": [
+        51.1269067155056,
+        8.065437842921076
+    ],
+    "Siegen-Wittgenstein Kreis": [
+        50.87851268664657,
+        8.006511798749562
+    ],
+    "Soest Kreis": [
+        51.50082609825193,
+        7.865379551938246
+    ],
+    "Unna Kreis": [
+        51.60420775,
+        7.527635866660244
+    ],
+    "Darmstadt Kreisfreie Stadt": [
+        49.87007158529694,
+        8.653094827386681
+    ],
+    "Frankfurt am Main Kreisfreie Stadt": [
+        50.116020626095604,
+        8.670199326318178
+    ],
+    "Offenbach am Main Kreisfreie Stadt": [
+        50.104010086858516,
+        8.766749811790449
+    ],
+    "Wiesbaden Kreisfreie Stadt": [
+        50.00597461933169,
+        8.302410577940723
+    ],
+    "Bergstraße Landkreis": [
+        49.6920633,
+        8.633356146530623
+    ],
+    "Darmstadt-Dieburg Landkreis": [
+        49.80266985,
+        8.592911945113965
+    ],
+    "Groß-Gerau Landkreis": [
+        49.9144034,
+        8.467245688617648
+    ],
+    "Hochtaunuskreis Landkreis": [
+        50.35094135,
+        8.53679131921042
+    ],
+    "Main-Kinzig-Kreis Landkreis": [
+        50.359172365557924,
+        9.534178145264883
+    ],
+    "Main-Taunus-Kreis Landkreis": [
+        50.0273507,
+        8.357338171024825
+    ],
+    "Odenwaldkreis Landkreis": [
+        49.71291215,
+        8.839571489980237
+    ],
+    "Offenbach Landkreis": [
+        50.021828459272704,
+        8.882003026977026
+    ],
+    "Rheingau-Taunus-Kreis Landkreis": [
+        50.14951899151374,
+        8.165409196128502
+    ],
+    "Wetteraukreis Landkreis": [
+        50.426691899999994,
+        8.655342779110239
+    ],
+    "Gießen Landkreis": [
+        50.62240315,
+        8.942526095834552
+    ],
+    "Lahn-Dill-Kreis Landkreis": [
+        50.57004055,
+        8.483474034444079
+    ],
+    "Limburg-Weilburg Landkreis": [
+        50.483625399999994,
+        8.275327183234783
+    ],
+    "Marburg-Biedenkopf Landkreis": [
+        50.805137753236735,
+        8.760397926367853
+    ],
+    "Vogelsbergkreis Landkreis": [
+        50.72364,
+        9.000648351533293
+    ],
+    "Kassel Kreisfreie Stadt": [
+        51.31540006373443,
+        9.492037269502639
+    ],
+    "Fulda Landkreis": [
+        50.557895349999995,
+        9.687612261972209
+    ],
+    "Hersfeld-Rotenburg Landkreis": [
+        50.76499655,
+        9.663585782906704
+    ],
+    "Kassel Landkreis": [
+        51.25555576761785,
+        9.415798565560896
+    ],
+    "Schwalm-Eder-Kreis Landkreis": [
+        51.1338465570003,
+        9.544068694537948
+    ],
+    "Waldeck-Frankenberg Landkreis": [
+        51.37577997138023,
+        9.01492794133829
+    ],
+    "Werra-Meißner-Kreis Landkreis": [
+        51.05779955,
+        9.946815211275407
+    ],
+    "Koblenz Kreisfreie Stadt": [
+        50.35267389335561,
+        7.593988843644307
+    ],
+    "Ahrweiler Landkreis": [
+        50.58832192745286,
+        7.226000319159585
+    ],
+    "Altenkirchen (Westerwald) Landkreis": [
+        50.90086637964982,
+        7.805426994500419
+    ],
+    "Bad Kreuznach Landkreis": [
+        49.94323636207447,
+        7.770703772997649
+    ],
+    "Birkenfeld Landkreis": [
+        49.94843559435017,
+        7.364875338816391
+    ],
+    "Cochem-Zell Landkreis": [
+        50.177917952512715,
+        7.301325203068418
+    ],
+    "Mayen-Koblenz Landkreis": [
+        50.43690573924024,
+        7.5723746127518154
+    ],
+    "Neuwied Landkreis": [
+        50.568792581212755,
+        7.286042314851518
+    ],
+    "Rhein-Hunsrück-Kreis Landkreis": [
+        50.08966736534602,
+        7.7248264711354935
+    ],
+    "Rhein-Lahn-Kreis Landkreis": [
+        50.31047230909712,
+        7.618526545441163
+    ],
+    "Westerwaldkreis Landkreis": [
+        50.43562859556689,
+        7.667555697810516
+    ],
+    "Trier Kreisfreie Stadt": [
+        49.751173825870644,
+        6.6364078602255265
+    ],
+    "Bernkastel-Wittlich Landkreis": [
+        49.85396846912321,
+        6.900238335444488
+    ],
+    "Eifelkreis Bitburg-Prüm Landkreis": [
+        49.98718540345916,
+        6.699102870798603
+    ],
+    "Vulkaneifel Landkreis": [
+        50.28785490100333,
+        6.919039739426228
+    ],
+    "Trier-Saarburg Landkreis": [
+        49.77642285873949,
+        6.562844488481871
+    ],
+    "Frankenthal (Pfalz) Kreisfreie Stadt": [
+        49.531021714958136,
+        8.354252856059576
+    ],
+    "Kaiserslautern Kreisfreie Stadt": [
+        49.4411316,
+        7.768713367485848
+    ],
+    "Landau in der Pfalz Kreisfreie Stadt": [
+        49.2006644197522,
+        8.114332580963888
+    ],
+    "Ludwigshafen am Rhein Kreisfreie Stadt": [
+        49.48093087169623,
+        8.440133822572966
+    ],
+    "Mainz Kreisfreie Stadt": [
+        49.99929615945902,
+        8.270137507742561
+    ],
+    "Neustadt an der Weinstraße Kreisfreie Stadt": [
+        49.3519079244676,
+        8.144274399509849
+    ],
+    "Pirmasens Kreisfreie Stadt": [
+        49.212073200000006,
+        7.6280319844545454
+    ],
+    "Speyer Kreisfreie Stadt": [
+        49.329539600000004,
+        8.42923677890457
+    ],
+    "Worms Kreisfreie Stadt": [
+        49.629635583342335,
+        8.362067454240224
+    ],
+    "Zweibrücken Kreisfreie Stadt": [
+        49.24855876784815,
+        7.375907050369755
+    ],
+    "Alzey-Worms Landkreis": [
+        49.747578129532094,
+        8.091306503120435
+    ],
+    "Bad Dürkheim Landkreis": [
+        49.45964541992763,
+        8.163980943631692
+    ],
+    "Donnersbergkreis Landkreis": [
+        49.66496951405842,
+        8.00770930869223
+    ],
+    "Germersheim Landkreis": [
+        49.245592745329134,
+        8.345517782009326
+    ],
+    "Kaiserslautern Landkreis": [
+        49.40958536951713,
+        7.568093898311693
+    ],
+    "Kusel Landkreis": [
+        49.54090723426295,
+        7.402346697251634
+    ],
+    "Südliche Weinstraße Landkreis": [
+        49.2941214,
+        8.286538552050693
+    ],
+    "Rhein-Pfalz-Kreis Landkreis": [
+        49.3857631,
+        8.37351273213093
+    ],
+    "Mainz-Bingen Landkreis": [
+        49.974261139637456,
+        8.051824960307828
+    ],
+    "Südwestpfalz Landkreis": [
+        49.1916907,
+        7.446788754100742
+    ],
+    "Stuttgart Stadtkreis": [
+        48.77782623870419,
+        9.17841910465745
+    ],
+    "Böblingen Landkreis": [
+        48.68361157164578,
+        9.02420573648508
+    ],
+    "Esslingen Landkreis": [
+        48.68880215,
+        9.205707452718684
+    ],
+    "Göppingen Landkreis": [
+        48.708168184659186,
+        9.652732242175011
+    ],
+    "Ludwigsburg Landkreis": [
+        48.86211640548948,
+        9.190449096250186
+    ],
+    "Rems-Murr-Kreis Landkreis": [
+        48.7984177,
+        9.277421726541913
+    ],
+    "Heilbronn Stadtkreis": [
+        49.13924325,
+        9.215612261200082
+    ],
+    "Heilbronn Landkreis": [
+        49.09243146084801,
+        9.470857015370175
+    ],
+    "Hohenlohekreis Landkreis": [
+        49.34632785,
+        9.546062862141635
+    ],
+    "Schwäbisch Hall Landkreis": [
+        48.9999703,
+        9.783124122150983
+    ],
+    "Main-Tauber-Kreis Landkreis": [
+        49.53658310373552,
+        9.553815375036981
+    ],
+    "Heidenheim Landkreis": [
+        48.546388449999995,
+        10.226310780436219
+    ],
+    "Ostalbkreis Landkreis": [
+        48.8387313548594,
+        10.085675833707198
+    ],
+    "Baden-Baden Stadtkreis": [
+        48.76282635,
+        8.238485580184662
+    ],
+    "Karlsruhe Stadtkreis": [
+        49.01200638546145,
+        8.429543174843802
+    ],
+    "Karlsruhe Landkreis": [
+        49.234302533944465,
+        8.52549273679318
+    ],
+    "Rastatt Landkreis": [
+        48.866519350000004,
+        8.18452642549805
+    ],
+    "Heidelberg Stadtkreis": [
+        49.40465714435344,
+        8.682087106554786
+    ],
+    "Mannheim Stadtkreis": [
+        49.491537724468806,
+        8.461310942644522
+    ],
+    "Neckar-Odenwald-Kreis Landkreis": [
+        49.5343517,
+        9.188331958240957
+    ],
+    "Rhein-Neckar-Kreis Landkreis": [
+        49.56528789636825,
+        9.07507860044252
+    ],
+    "Pforzheim Stadtkreis": [
+        48.889705649999996,
+        8.681114834720248
+    ],
+    "Calw Landkreis": [
+        48.54347865,
+        8.71973633066466
+    ],
+    "Enzkreis Landkreis": [
+        48.830226800000005,
+        8.832192206884326
+    ],
+    "Freudenstadt Landkreis": [
+        48.448029984704164,
+        8.673922058915396
+    ],
+    "Freiburg im Breisgau Stadtkreis": [
+        47.994721119185535,
+        7.849047750966221
+    ],
+    "Breisgau-Hochschwarzwald Landkreis": [
+        47.92158823970111,
+        7.691908383714683
+    ],
+    "Emmendingen Landkreis": [
+        48.093348901096995,
+        7.960306636683086
+    ],
+    "Ortenaukreis Landkreis": [
+        48.48414628044943,
+        7.939887914461912
+    ],
+    "Rottweil Landkreis": [
+        48.3614424,
+        8.64229435045263
+    ],
+    "Schwarzwald-Baar-Kreis Landkreis": [
+        48.07366570000001,
+        8.447937373736522
+    ],
+    "Tuttlingen Landkreis": [
+        47.903978949999996,
+        8.653200421808634
+    ],
+    "Konstanz Landkreis": [
+        47.76204617417338,
+        8.85340535952974
+    ],
+    "Lörrach Landkreis": [
+        47.7032047,
+        7.6408195941707575
+    ],
+    "Waldshut Landkreis": [
+        47.61833127392143,
+        7.908881661317021
+    ],
+    "Reutlingen Landkreis": [
+        48.563848750000005,
+        9.175736954755344
+    ],
+    "Tübingen Landkreis": [
+        48.521532699999995,
+        9.02584116562453
+    ],
+    "Zollernalbkreis Landkreis": [
+        48.26549609313142,
+        8.862276526499269
+    ],
+    "Ulm Stadtkreis": [
+        48.406152250000005,
+        10.000990196903144
+    ],
+    "Alb-Donau-Kreis Landkreis": [
+        48.44299090178299,
+        9.660013957469399
+    ],
+    "Biberach Landkreis": [
+        48.093562807734244,
+        9.786806053544499
+    ],
+    "Bodenseekreis Landkreis": [
+        47.7984601,
+        9.103883019082588
+    ],
+    "Ravensburg Landkreis": [
+        47.6233193,
+        9.714187666228435
+    ],
+    "Sigmaringen Landkreis": [
+        48.247118131368474,
+        9.174026721077789
+    ],
+    "Ingolstadt Kreisfreie Stadt": [
+        48.76536737651252,
+        11.377000465622983
+    ],
+    "München Kreisfreie Stadt": [
+        48.136058450500585,
+        11.573448581898775
+    ],
+    "Rosenheim Kreisfreie Stadt": [
+        47.8559058543137,
+        12.12747511465269
+    ],
+    "Altötting Landkreis": [
+        48.163337,
+        12.819498197996332
+    ],
+    "Berchtesgadener Land Landkreis": [
+        47.850310050000004,
+        12.826893112128026
+    ],
+    "Bad Tölz-Wolfratshausen Landkreis": [
+        47.9442694,
+        11.421070438126831
+    ],
+    "Dachau Landkreis": [
+        48.2698688,
+        11.45378950038445
+    ],
+    "Ebersberg Landkreis": [
+        47.9939055,
+        12.064771759776711
+    ],
+    "Eichstätt Landkreis": [
+        48.88633275,
+        11.198939616989978
+    ],
+    "Erding Landkreis": [
+        48.27631555,
+        12.150919882748994
+    ],
+    "Freising Landkreis": [
+        48.5522455,
+        11.724229754146613
+    ],
+    "Fürstenfeldbruck Landkreis": [
+        48.1321961,
+        11.360016905613705
+    ],
+    "Garmisch-Partenkirchen Landkreis": [
+        47.6744734,
+        11.195431886987018
+    ],
+    "Landsberg am Lech Landkreis": [
+        48.00164985,
+        11.156795508775302
+    ],
+    "Miesbach Landkreis": [
+        47.8698542,
+        11.683784286578948
+    ],
+    "Mühldorf a. Inn Landkreis": [
+        48.17513955,
+        12.157983093330156
+    ],
+    "München Landkreis": [
+        48.07005395,
+        11.622559414856465
+    ],
+    "Neuburg-Schrobenhausen Landkreis": [
+        48.6692934,
+        11.397160067436975
+    ],
+    "Pfaffenhofen a.d. Ilm Landkreis": [
+        48.71658625,
+        11.490985645643757
+    ],
+    "Rosenheim Landkreis": [
+        47.86532185,
+        12.00863820546505
+    ],
+    "Starnberg Landkreis": [
+        48.06451855,
+        11.353790545761504
+    ],
+    "Traunstein Landkreis": [
+        48.01504925,
+        12.393458950726489
+    ],
+    "Weilheim-Schongau Landkreis": [
+        47.86879725,
+        11.280473098835426
+    ],
+    "Landshut Kreisfreie Stadt": [
+        48.5434427,
+        12.169996988344758
+    ],
+    "Passau Kreisfreie Stadt": [
+        48.5673568,
+        13.46219558408719
+    ],
+    "Straubing Kreisfreie Stadt": [
+        48.8839157,
+        12.595577296431395
+    ],
+    "Deggendorf Landkreis": [
+        48.7818203,
+        12.901988632756439
+    ],
+    "Freyung-Grafenau Landkreis": [
+        48.73920375,
+        13.593429754259633
+    ],
+    "Kelheim Landkreis": [
+        48.64638645,
+        11.757214802575271
+    ],
+    "Landshut Landkreis": [
+        48.586569499999996,
+        12.136886804573264
+    ],
+    "Passau Landkreis": [
+        48.646020050000004,
+        13.636411170455222
+    ],
+    "Regen Landkreis": [
+        49.13449575,
+        12.977593723846855
+    ],
+    "Rottal-Inn Landkreis": [
+        48.4622279,
+        12.553149574863536
+    ],
+    "Straubing-Bogen Landkreis": [
+        48.779852899999995,
+        12.211647836151364
+    ],
+    "Dingolfing-Landau Landkreis": [
+        48.61321035,
+        12.477253640536818
+    ],
+    "Amberg Kreisfreie Stadt": [
+        49.454366199999996,
+        11.847402115482414
+    ],
+    "Regensburg Kreisfreie Stadt": [
+        49.01803925,
+        12.097573197949984
+    ],
+    "Weiden i.d. OPf. Kreisfreie Stadt": [
+        49.6704287,
+        12.166984528812986
+    ],
+    "Amberg-Sulzbach Landkreis": [
+        49.4998052,
+        11.589179626279737
+    ],
+    "Cham Landkreis": [
+        49.3534592,
+        12.526318139399496
+    ],
+    "Neumarkt i.d. OPf. Landkreis": [
+        49.2844684,
+        11.272881552835383
+    ],
+    "Neustadt a.d. Waldnaab Landkreis": [
+        49.76109005,
+        11.696905676605367
+    ],
+    "Regensburg Landkreis": [
+        48.8219092,
+        12.165411368991524
+    ],
+    "Schwandorf Landkreis": [
+        49.40764715,
+        12.044026390557795
+    ],
+    "Tirschenreuth Landkreis": [
+        49.84293685,
+        12.0418919840047
+    ],
+    "Bamberg Kreisfreie Stadt": [
+        49.88869885,
+        10.895634601666622
+    ],
+    "Bayreuth Kreisfreie Stadt": [
+        49.94387646408369,
+        11.576461416057743
+    ],
+    "Coburg Kreisfreie Stadt": [
+        50.2603,
+        10.982239305889108
+    ],
+    "Hof Kreisfreie Stadt": [
+        50.324146400000004,
+        11.935875809591519
+    ],
+    "Bamberg Landkreis": [
+        49.8788147,
+        11.14587903346127
+    ],
+    "Bayreuth Landkreis": [
+        49.738814899999994,
+        11.528132777715873
+    ],
+    "Coburg Landkreis": [
+        50.1965336,
+        10.829768578789068
+    ],
+    "Forchheim Landkreis": [
+        49.623016899999996,
+        11.131072332451659
+    ],
+    "Hof Landkreis": [
+        50.24576195,
+        12.041734554219914
+    ],
+    "Kronach Landkreis": [
+        50.251601,
+        11.236235928544149
+    ],
+    "Kulmbach Landkreis": [
+        50.123616,
+        11.444165150648116
+    ],
+    "Lichtenfels Landkreis": [
+        50.131526300000004,
+        11.083929867785223
+    ],
+    "Wunsiedel i. Fichtelgebirge Landkreis": [
+        50.16836015,
+        12.108786511839488
+    ],
+    "Ansbach Kreisfreie Stadt": [
+        49.28887445,
+        10.55976933809508
+    ],
+    "Erlangen Kreisfreie Stadt": [
+        49.5865939,
+        11.008908739125415
+    ],
+    "Fürth Kreisfreie Stadt": [
+        49.47572375,
+        10.98700248437818
+    ],
+    "Nürnberg Kreisfreie Stadt": [
+        49.44964420119197,
+        11.08049214539141
+    ],
+    "Schwabach Kreisfreie Stadt": [
+        49.31973455,
+        11.005878882726467
+    ],
+    "Ansbach Landkreis": [
+        49.404965244673775,
+        10.677260438620422
+    ],
+    "Erlangen-Höchstadt Landkreis": [
+        49.5845913,
+        11.211386559365817
+    ],
+    "Fürth Landkreis": [
+        49.4334921,
+        10.928244687627966
+    ],
+    "Nürnberger Land Landkreis": [
+        49.42618625,
+        11.210829397471631
+    ],
+    "Neustadt a.d. Aisch-Bad Windsheim Landkreis": [
+        49.44996795,
+        10.655355485942675
+    ],
+    "Roth Landkreis": [
+        49.345195450000006,
+        11.15939464980212
+    ],
+    "Weißenburg-Gunzenhausen Landkreis": [
+        49.11514663665825,
+        10.752870622563849
+    ],
+    "Aschaffenburg Kreisfreie Stadt": [
+        49.97488212340816,
+        9.155887013701701
+    ],
+    "Schweinfurt Kreisfreie Stadt": [
+        50.04614275,
+        10.221121206293432
+    ],
+    "Würzburg Kreisfreie Stadt": [
+        49.79436002479121,
+        9.932069135484642
+    ],
+    "Aschaffenburg Landkreis": [
+        50.083773050000005,
+        9.07302251363447
+    ],
+    "Bad Kissingen Landkreis": [
+        50.1710185,
+        10.202740634410713
+    ],
+    "Rhön-Grabfeld Landkreis": [
+        50.240953399999995,
+        10.561521906064073
+    ],
+    "Haßberge Landkreis": [
+        50.0925234,
+        10.714189721987363
+    ],
+    "Kitzingen Landkreis": [
+        49.78186395,
+        10.482474836247636
+    ],
+    "Miltenberg Landkreis": [
+        49.83790477562514,
+        9.130871062147166
+    ],
+    "Main-Spessart Landkreis": [
+        49.89721475,
+        9.77826376797115
+    ],
+    "Schweinfurt Landkreis": [
+        49.98616935,
+        10.095707645316502
+    ],
+    "Würzburg Landkreis": [
+        49.65868585,
+        10.050450967957504
+    ],
+    "Augsburg Kreisfreie Stadt": [
+        48.36558232768834,
+        10.895619625346354
+    ],
+    "Kaufbeuren Kreisfreie Stadt": [
+        47.88185435,
+        10.603651287221375
+    ],
+    "Kempten (Allgäu) Kreisfreie Stadt": [
+        47.71185905,
+        10.30258855140582
+    ],
+    "Memmingen Kreisfreie Stadt": [
+        47.98162205,
+        10.16873503309591
+    ],
+    "Aichach-Friedberg Landkreis": [
+        48.2114634,
+        11.020932451586031
+    ],
+    "Augsburg Landkreis": [
+        48.260946849999996,
+        10.885834557912528
+    ],
+    "Dillingen a.d. Donau Landkreis": [
+        48.5118418,
+        10.711323617725027
+    ],
+    "Günzburg Landkreis": [
+        48.24327106474961,
+        10.369037576820599
+    ],
+    "Neu-Ulm Landkreis": [
+        48.389117999999996,
+        10.007180262523544
+    ],
+    "Lindau (Bodensee) Landkreis": [
+        47.57286685,
+        9.686940863251925
+    ],
+    "Ostallgäu Landkreis": [
+        48.0301967,
+        10.753815074610102
+    ],
+    "Unterallgäu Landkreis": [
+        48.19040355029932,
+        10.265021656450925
+    ],
+    "Donau-Ries Landkreis": [
+        48.719448799999995,
+        10.765692274124813
+    ],
+    "Oberallgäu Landkreis": [
+        47.65363985,
+        10.269467628231112
+    ],
+    "Regionalverband Saarbrücken Landkreis": [
+        49.23570720869405,
+        6.997736330685831
+    ],
+    "Merzig-Wadern Landkreis": [
+        49.44258939590194,
+        6.633058947147998
+    ],
+    "Neunkirchen Landkreis": [
+        49.343078057105096,
+        7.185254597552741
+    ],
+    "Saarlouis Landkreis": [
+        49.27846755,
+        6.817426746173322
+    ],
+    "Saarpfalz-Kreis Landkreis": [
+        49.27563137853666,
+        7.127990712612148
+    ],
+    "St. Wendel Landkreis": [
+        49.467981358842316,
+        7.167415665615955
+    ],
+    "Brandenburg an der Havel Kreisfreie Stadt": [
+        52.4155967,
+        12.55218306594888
+    ],
+    "Cottbus Kreisfreie Stadt": [
+        51.755156568641326,
+        14.360656858380148
+    ],
+    "Frankfurt (Oder) Kreisfreie Stadt": [
+        52.336540049999996,
+        14.554393780692156
+    ],
+    "Potsdam Kreisfreie Stadt": [
+        52.40183210942269,
+        13.060638348296514
+    ],
+    "Barnim Landkreis": [
+        52.83381223655065,
+        13.814133454038013
+    ],
+    "Dahme-Spreewald Landkreis": [
+        52.38816030396405,
+        13.485235727934912
+    ],
+    "Elbe-Elster Landkreis": [
+        51.59694185,
+        13.735855397883231
+    ],
+    "Havelland Landkreis": [
+        52.578098499999996,
+        13.093324445533383
+    ],
+    "Märkisch-Oderland Landkreis": [
+        52.509394125565585,
+        14.393643375268796
+    ],
+    "Oberhavel Landkreis": [
+        52.77117925,
+        13.287802770035833
+    ],
+    "Oberspreewald-Lausitz Landkreis": [
+        51.42724735,
+        13.880030677253735
+    ],
+    "Oder-Spree Landkreis": [
+        52.316732264422654,
+        14.500974211686355
+    ],
+    "Ostprignitz-Ruppin Landkreis": [
+        52.9176316,
+        12.777357120809093
+    ],
+    "Potsdam-Mittelmark Landkreis": [
+        52.3826846,
+        13.276557558292842
+    ],
+    "Prignitz Landkreis": [
+        53.13618288045763,
+        12.135724511997799
+    ],
+    "Spree-Neiße Landkreis": [
+        51.7004042,
+        14.453841079580439
+    ],
+    "Teltow-Fläming Landkreis": [
+        51.9566321,
+        13.073854128519725
+    ],
+    "Uckermark Landkreis": [
+        53.0457629,
+        14.033858096172006
+    ],
+    "Rostock Kreisfreie Stadt": [
+        54.08253680720285,
+        12.156429738354992
+    ],
+    "Schwerin Kreisfreie Stadt": [
+        53.62987375,
+        11.405091726908957
+    ],
+    "Mecklenburgische Seenplatte Landkreis": [
+        53.5452901148491,
+        13.250289047652759
+    ],
+    "Rostock Landkreis": [
+        53.7714988486668,
+        12.573559411572923
+    ],
+    "Vorpommern-Rügen Landkreis": [
+        54.246418750000004,
+        12.364785402010025
+    ],
+    "Nordwestmecklenburg Landkreis": [
+        53.70892318593509,
+        11.370418376008116
+    ],
+    "Vorpommern-Greifswald Landkreis": [
+        53.97949941808211,
+        13.12417798699389
+    ],
+    "Ludwigslust-Parchim Landkreis": [
+        53.60833127121395,
+        11.551768641038016
+    ],
+    "Chemnitz Kreisfreie Stadt": [
+        50.83527749701103,
+        12.9240166661922
+    ],
+    "Erzgebirgskreis Landkreis": [
+        50.599558900000005,
+        12.708984078483024
+    ],
+    "Mittelsachsen Landkreis": [
+        51.1762336,
+        12.936334957834795
+    ],
+    "Vogtlandkreis Landkreis": [
+        50.543168,
+        11.921206904223139
+    ],
+    "Zwickau Landkreis": [
+        50.7100752055017,
+        12.491749895576124
+    ],
+    "Dresden Kreisfreie Stadt": [
+        51.05339257223431,
+        13.72646471723809
+    ],
+    "Bautzen Landkreis": [
+        51.119604404880434,
+        13.911653905534296
+    ],
+    "Görlitz Landkreis": [
+        51.08264871220635,
+        14.659517572723072
+    ],
+    "Meißen Landkreis": [
+        51.11064099338611,
+        13.649156990055339
+    ],
+    "Sächsische Schweiz-Osterzgebirge Landkreis": [
+        51.00563935084575,
+        13.64898196256701
+    ],
+    "Leipzig Kreisfreie Stadt": [
+        51.334718725925,
+        12.388326675428408
+    ],
+    "Leipzig Landkreis": [
+        51.2924449,
+        12.358832703989801
+    ],
+    "Nordsachsen Landkreis": [
+        51.39240555,
+        12.512871046584781
+    ],
+    "Dessau-Roßlau Kreisfreie Stadt": [
+        51.82080053276233,
+        12.251018651550917
+    ],
+    "Halle (Saale) Kreisfreie Stadt": [
+        51.485805199929466,
+        11.968770708183309
+    ],
+    "Magdeburg Kreisfreie Stadt": [
+        52.121713529945325,
+        11.635729934984639
+    ],
+    "Altmarkkreis Salzwedel Landkreis": [
+        52.847857745951984,
+        11.132104496772573
+    ],
+    "Anhalt-Bitterfeld Landkreis": [
+        51.749065826595995,
+        11.973633170517568
+    ],
+    "Börde Landkreis": [
+        52.075134780257294,
+        11.417318372777073
+    ],
+    "Burgenlandkreis Landkreis": [
+        51.14419350162865,
+        11.814481327798651
+    ],
+    "Harz Landkreis": [
+        51.85602272046176,
+        11.261907138478676
+    ],
+    "Jerichower Land Landkreis": [
+        52.15298293905175,
+        11.732735530217912
+    ],
+    "Mansfeld-Südharz Landkreis": [
+        51.51880857915243,
+        11.548377945359004
+    ],
+    "Saalekreis Landkreis": [
+        51.4439668,
+        11.842861325774901
+    ],
+    "Salzlandkreis Landkreis": [
+        51.79194255250483,
+        11.743856244240002
+    ],
+    "Stendal Landkreis": [
+        52.42630374364801,
+        11.76937145990949
+    ],
+    "Wittenberg Landkreis": [
+        51.70469029938549,
+        12.428945830259293
+    ],
+    "Erfurt Kreisfreie Stadt": [
+        50.97672876512398,
+        11.027508383303443
+    ],
+    "Gera Kreisfreie Stadt": [
+        50.87828605,
+        12.081984808624057
+    ],
+    "Jena Kreisfreie Stadt": [
+        50.9409503139471,
+        11.591407386488573
+    ],
+    "Suhl Kreisfreie Stadt": [
+        50.599593150000004,
+        10.704336528910186
+    ],
+    "Weimar Kreisfreie Stadt": [
+        50.981644599999996,
+        11.320909161158806
+    ],
+    "Eisenach Kreisfreie Stadt": [
+        50.991225,
+        10.286164937583063
+    ],
+    "Eichsfeld Landkreis": [
+        51.371305970618394,
+        10.138276909929461
+    ],
+    "Nordhausen Landkreis": [
+        51.497986749999995,
+        10.803268318899804
+    ],
+    "Wartburgkreis Landkreis": [
+        50.806923109888736,
+        10.036538222563706
+    ],
+    "Unstrut-Hainich-Kreis Landkreis": [
+        51.12323275,
+        10.644819239967081
+    ],
+    "Kyffhäuserkreis Landkreis": [
+        51.363014390617415,
+        11.299581241567681
+    ],
+    "Schmalkalden-Meiningen Landkreis": [
+        50.5695446,
+        10.558504370048263
+    ],
+    "Gotha Landkreis": [
+        51.030899727916584,
+        10.84585470018381
+    ],
+    "Sömmerda Landkreis": [
+        51.07984806782374,
+        10.94236560959214
+    ],
+    "Hildburghausen Landkreis": [
+        50.5436076,
+        10.75063779546991
+    ],
+    "Ilm-Kreis Landkreis": [
+        50.704670373403694,
+        10.722844303897297
+    ],
+    "Weimarer Land Landkreis": [
+        50.91372137290869,
+        11.14652177961434
+    ],
+    "Sonneberg Landkreis": [
+        50.414119400000004,
+        11.20091647579476
+    ],
+    "Saalfeld-Rudolstadt Landkreis": [
+        50.64280724017507,
+        11.352175735517465
+    ],
+    "Saale-Holzland-Kreis Landkreis": [
+        50.96742923270114,
+        11.890407120771542
+    ],
+    "Saale-Orla-Kreis Landkreis": [
+        50.417981705424104,
+        11.522390843934481
+    ],
+    "Greiz Landkreis": [
+        50.81867094580852,
+        12.033457389508023
+    ],
+    "Altenburger Land Landkreis": [
+        50.989654695264996,
+        12.435753464201449
+    ],
+    "Berlin": [
+        52.5170365,
+        13.3888599
+    ]
+}
