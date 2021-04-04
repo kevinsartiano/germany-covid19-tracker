@@ -1,7 +1,10 @@
 # Germany COVID-19 Tracker
 
-The *Germany COVID-19 Tracker* is a Flask web application that gives that tracks the 7-day cases per 100k 
-inhabitants. The data is sourced from the Robert Koch Institute. 
+The *Germany COVID-19 Tracker* is a Flask web application that tracks the 7-day cases per 100k 
+inhabitants. The data is sourced from the Robert Koch Institute.
+The live app can be found here:
+
+https://germany-covid19-tracker.herokuapp.com/
 
 ![alt text](heatmap.png)
 
